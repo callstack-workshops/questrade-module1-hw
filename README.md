@@ -1,4 +1,4 @@
-# Module 4 Homework
+# Module 2 Homework
 
 As your CTO and Tech Leader want to continue to expand their digital presence, it becomes imperative to reach a wider audience through multiple platforms. Adding a mobile app to complement your existing web app is a strategic step towards improving user experience and increasing engagement.
 Now that you know React, let's embark on an exciting journey into the world of React Native.
