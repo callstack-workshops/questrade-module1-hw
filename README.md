@@ -23,8 +23,6 @@ https://github.com/callstack-workshops/questrade-module1-hw
 The homework repository contains periodic checkpoints for your convenience. You will see callouts denoting the current checkpoint throughout this instruction. They will look something like this:
 
 
-> :bulb: You are now here → `checkpoint-xyz`
-
 Feel free to check out the corresponding branch of any given checkpoint if you’re struggling or simply want to compare your solution with ours.
 
 With that out of the way, let’s start!
@@ -114,7 +112,6 @@ You can read more about TS configuration with expo here: https://docs.expo.dev/g
 
 </details>
 
-> :bulb: You are now here → https://github.com/callstack-workshops/questrade-module1-hw/tree/part-1 
 
 ## Part 2: Add a lottery
 
@@ -150,8 +147,6 @@ Add lottery feature should have following things implemented:
 - After successful submission we should be navigated back to Home Screen and Toast with a `'New lottery added successfully!'` message should be displayed
 
   
-
-> :bulb: You are now here → https://github.com/callstack-workshops/questrade-module1-hw/tree/part-2
 
 ## Part 3: List lotteries
 
@@ -193,8 +188,7 @@ List lotteries feature:
 - Typing in the input should filter the results
 - When there are no search results for a given filter, no search result information should be displayed
 
-  
-> :bulb: You are now here → https://github.com/callstack-workshops/questrade-module1-hw/tree/part-3
+
 
 ## Part 4: Store register lottery data
 
@@ -230,8 +224,6 @@ Registered lotteries feature:
 - Register modal should close after successful submission and registered lottery IDs need to be added to AsyncStorage
 - Registered lotteries should be grayed-out and not be selectable
 
-  
-> :bulb: You are now here → https://github.com/callstack-workshops/questrade-module1-hw/tree/part-4 
 
 
 ## Part 5: Add animation
@@ -250,6 +242,4 @@ Adding animations feature:
 - Add an animation to change the opacity of the header as the user scrolls down the list.
 - Apply an animation to scale down the header elements as the user scrolls down.
 
-
-> :bulb: You are now here → https://github.com/callstack-workshops/questrade-module1-hw/tree/part-5 
 
